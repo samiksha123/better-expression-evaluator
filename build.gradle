@@ -5,7 +5,7 @@ apply plugin: 'idea'
 group = "com.samiksha.exp_evaluator"
 version = "0.1"
 
-mainClassName="com.samiksha.exp_evaluator.Main" // Change it to your main class
+mainClassName="com.samiksha.exp_evaluator.Addition" // Change it to your main class
 
 repositories { mavenCentral() }
 
